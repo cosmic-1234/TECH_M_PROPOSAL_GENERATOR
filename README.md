@@ -1,14 +1,14 @@
-# Tech Mahindra RFP Automation System
+# Enterprise RFP Automation System
 
-Welcome to the Tech Mahindra RFP Automation System! This project is designed to eliminate the manual, time-consuming process of responding to Request for Proposals (RFPs). 
+Welcome to the Enterprise RFP Automation System! This project is designed to eliminate the manual, time-consuming process of responding to Request for Proposals (RFPs). 
 
-Using a multi-agent AI architecture, this system reads client RFP documents, references past Tech Mahindra project knowledge, and automatically generates high-end, consulting-grade Word and PowerPoint proposal documents in a matter of minutes.
+Using a multi-agent AI architecture, this system reads client RFP documents, references past project knowledge, and automatically generates high-end, consulting-grade Word and PowerPoint proposal documents in a matter of minutes.
 
 ## What It Does
 1. **Document Ingestion:** Upload any RFP document (PDF or raw text).
 2. **AI Analysis:** A team of sequential AI agents (Analyst, Architect, Pricing, and Writer) breaks down the requirements, designs a technical architecture, estimates pricing, and writes a cohesive proposal.
-3. **Knowledge Retrieval (RAG):** The system uses ChromaDB to search through past successful proposals to ground its answers in real Tech Mahindra data.
-4. **Consulting-Grade Exports:** It automatically generates beautifully formatted, McKinsey/BCG-style Word Documents and PowerPoint presentations branded with Tech Mahindra colors and logos.
+3. **Knowledge Retrieval (RAG):** The system uses ChromaDB to search through past successful proposals to ground its answers in real organizational data.
+4. **Consulting-Grade Exports:** It automatically generates beautifully formatted, professional-grade Word Documents and PowerPoint presentations.
 
 ## Prerequisites
 Before you start, make sure you have:
